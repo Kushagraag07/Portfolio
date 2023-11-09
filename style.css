@@ -222,7 +222,7 @@ p {
 }
 
 #hero {
-    background-image: url(./img/IMG_1212.jpg);
+    background-image: url(./img/2.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -330,7 +330,7 @@ p {
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image: url(img/img_b11.jpeg);
+    background-image: url(img/program.jpg);
     background-size: cover;
     margin: 10px 5%;
     position: relative;
