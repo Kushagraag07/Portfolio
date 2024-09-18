@@ -246,7 +246,7 @@ p {
     left: 0;
     height: 100%;
     width: 0;
-    background-color: red;
+    background-color: rgb(0, 255, 76);
     animation: text_reveal_box 1s ease 0.5s forwards;
 }
 
